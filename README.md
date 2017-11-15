@@ -28,7 +28,12 @@ GITPASSWORD="xxxx"
 #-----------------------------
 ```
 with your own information.
-### Step3
+
+
+### Step 3
+pip install requests
+
+### Step4
 Run```python -u main.py```,  
 Everything is ok,hooray!
 ## Windows
